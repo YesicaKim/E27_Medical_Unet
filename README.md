@@ -28,9 +28,9 @@
 
 ## (2) mean IoU
 ### :  Vgg16 Unet Model이 Unet Model보다 0.154 높았고, Unet Model이 Encoder_Decoder Model 보다 0.253 높았다.
-    1. Encoder_Decoder Model: ***0.9190***
-    2. Unet Model: ***0.9443***
-    3. Vgg16 Unet Model: ***0.9597***
+   1. Encoder_Decoder Model: ***0.9190***
+   2. Unet Model: ***0.9443***
+   3. Vgg16 Unet Model: ***0.9597***
 
 ### (3) 테스트 이미지 결과 분석
 
